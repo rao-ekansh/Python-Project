@@ -1,0 +1,30 @@
+In this Python project , our goal is to build a game in which user can check and even improve typing speed. 
+For a graphical user interface, we will be going to use the pygame library in Python which is used for working with graphics.
+This is an OOPs approach. We will also show the images and text required to be displayed on the screen as per our need.
+Interesting FACT : You Can Save 21 days per Year with effective skills!
+
+Technology Used :
+
+Language - Python 
+Software - Jupyter Notebook
+Platform - MacOS
+
+
+Prerequisites and Libraries need to be installed :
+
+1. First of all you should have some basic knowledge of Python programming language .   
+2. You should have to install the PyGame; library using the following command : 
+pip install pygame.
+
+You should have to know the working of random , time and sys package and knowledge of —— Object-Oriented Programming (OOPs) in Python . 
+
+3. This project broadly consists of two types of file :
+
+essay.txt - A text file consisting a number of sentences in which we will pick one of the sentence randomly and give it to the user as challenge.
+TypingSpeedTest.py - The main python program file consisting all the codes.
+Note that for making our project beautiful we used some image files like 
+
+background_image.jpg - This image will be drawn in the background of our game window. 
+Icon.png - This will be our icon for reset button. 
+StartingImage.jpg - This image will be displayed everytime the game starts. 
+   Note that we can decorate our window as much we can but here we just have to learn its working          and basic idea .
